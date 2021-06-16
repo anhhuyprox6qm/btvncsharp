@@ -1,15 +1,14 @@
 ﻿namespace Lab5.Exercise_2
 {
-    public class HighSchoolTeacher:Person
+    public class HighSchoolTeacher:Person,IEmployeeAction
     {
         public string HighSchoolTeacherCode { get; set; }
         public int SkillLevel { get; set; }
 
-        public override double CalculateSalary()
+        public string HighSchoolTeacherCode { get; set; }
+        public double CalculateSalary()
         {
-            throw new System
+            return BaseSalary * Skilllevel + SeniorLecture + Bonus;
         }
-            
-    }
-    
-}
+     }
+}    
