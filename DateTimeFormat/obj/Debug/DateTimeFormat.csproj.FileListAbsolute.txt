@@ -1,0 +1,6 @@
+C:\Users\asus\RiderProjects\Session01\DateTimeFormat\bin\Debug\DateTimeFormat.exe
+C:\Users\asus\RiderProjects\Session01\DateTimeFormat\bin\Debug\DateTimeFormat.pdb
+C:\Users\asus\RiderProjects\Session01\DateTimeFormat\obj\Debug\DateTimeFormat.csprojAssemblyReference.cache
+C:\Users\asus\RiderProjects\Session01\DateTimeFormat\obj\Debug\DateTimeFormat.csproj.CoreCompileInputs.cache
+C:\Users\asus\RiderProjects\Session01\DateTimeFormat\obj\Debug\DateTimeFormat.exe
+C:\Users\asus\RiderProjects\Session01\DateTimeFormat\obj\Debug\DateTimeFormat.pdb

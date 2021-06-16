@@ -1,0 +1,6 @@
+C:\Users\asus\RiderProjects\Session01\Ex2\bin\Debug\Ex2.exe
+C:\Users\asus\RiderProjects\Session01\Ex2\bin\Debug\Ex2.pdb
+C:\Users\asus\RiderProjects\Session01\Ex2\obj\Debug\Ex2.csprojAssemblyReference.cache
+C:\Users\asus\RiderProjects\Session01\Ex2\obj\Debug\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\asus\RiderProjects\Session01\Ex2\obj\Debug\Ex2.exe
+C:\Users\asus\RiderProjects\Session01\Ex2\obj\Debug\Ex2.pdb

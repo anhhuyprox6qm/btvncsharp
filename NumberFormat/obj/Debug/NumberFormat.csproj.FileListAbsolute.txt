@@ -1,0 +1,6 @@
+C:\Users\asus\RiderProjects\Session01\NumberFormat\bin\Debug\NumberFormat.exe
+C:\Users\asus\RiderProjects\Session01\NumberFormat\bin\Debug\NumberFormat.pdb
+C:\Users\asus\RiderProjects\Session01\NumberFormat\obj\Debug\NumberFormat.csprojAssemblyReference.cache
+C:\Users\asus\RiderProjects\Session01\NumberFormat\obj\Debug\NumberFormat.csproj.CoreCompileInputs.cache
+C:\Users\asus\RiderProjects\Session01\NumberFormat\obj\Debug\NumberFormat.exe
+C:\Users\asus\RiderProjects\Session01\NumberFormat\obj\Debug\NumberFormat.pdb

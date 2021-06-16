@@ -1,0 +1,6 @@
+C:\Users\asus\RiderProjects\Session01\ValueType\bin\Debug\ValueType.exe
+C:\Users\asus\RiderProjects\Session01\ValueType\bin\Debug\ValueType.pdb
+C:\Users\asus\RiderProjects\Session01\ValueType\obj\Debug\ValueType.csprojAssemblyReference.cache
+C:\Users\asus\RiderProjects\Session01\ValueType\obj\Debug\ValueType.csproj.CoreCompileInputs.cache
+C:\Users\asus\RiderProjects\Session01\ValueType\obj\Debug\ValueType.exe
+C:\Users\asus\RiderProjects\Session01\ValueType\obj\Debug\ValueType.pdb

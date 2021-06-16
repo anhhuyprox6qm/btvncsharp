@@ -1,0 +1,6 @@
+C:\Users\asus\RiderProjects\Session01\DataType\bin\Debug\DataType.exe
+C:\Users\asus\RiderProjects\Session01\DataType\bin\Debug\DataType.pdb
+C:\Users\asus\RiderProjects\Session01\DataType\obj\Debug\DataType.csprojAssemblyReference.cache
+C:\Users\asus\RiderProjects\Session01\DataType\obj\Debug\DataType.csproj.CoreCompileInputs.cache
+C:\Users\asus\RiderProjects\Session01\DataType\obj\Debug\DataType.exe
+C:\Users\asus\RiderProjects\Session01\DataType\obj\Debug\DataType.pdb

@@ -1,0 +1,6 @@
+C:\Users\asus\RiderProjects\Session01\First_prg\bin\Debug\First_prg.exe
+C:\Users\asus\RiderProjects\Session01\First_prg\bin\Debug\First_prg.pdb
+C:\Users\asus\RiderProjects\Session01\First_prg\obj\Debug\First_prg.csprojAssemblyReference.cache
+C:\Users\asus\RiderProjects\Session01\First_prg\obj\Debug\First_prg.csproj.CoreCompileInputs.cache
+C:\Users\asus\RiderProjects\Session01\First_prg\obj\Debug\First_prg.exe
+C:\Users\asus\RiderProjects\Session01\First_prg\obj\Debug\First_prg.pdb
