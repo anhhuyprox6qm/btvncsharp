@@ -1,13 +1,23 @@
 ﻿namespace Lab5.Exercise_2
 {
-    public class UniversityTeacher:Person
+    public class UniversityTeacher: Person, IEmployeeAction
     {
-        public string UniversityTeacherCode { get; set; }
-        public int EnglishSkillLevel { get; set; }
+        public string UniversityTeacherCode { get; set; } 
+        
+        public int EnglishSkillLever { get; set; }
 
-        public override double CalculateSalary()
+        public double CalculateSalary()
         {
-            return BaseSalary*SkillLevel+EnglishSkillLevel
+            if (SeniorLecture < 60000)
+            {
+                throw new AmountException("Senior lecture can not get less than 60,000 salary", Fullname);
+            }
+
+            if (Bonus > 10000)
+            {
+                throw new AmountException("Bonus is more than 10,000", Fullname);
+            }
+            return BaseSalary * Skillevel + ((BaseSalary / 10) * EnglishSkillLever) + SeniorLecture + Bonus;
         }
     }
 }
