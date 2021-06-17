@@ -42,6 +42,7 @@
         <Compile Include="Exercise 1\Order\Bakery.cs" />
         <Compile Include="Exercise 1\Order\GroceryItems.cs" />
         <Compile Include="Exercise 1\Program.cs" />
+        <Compile Include="Exercise 2\AmountException.cs" />
         <Compile Include="Exercise 2\HighSchoolTeacher.cs" />
         <Compile Include="Exercise 2\Person.cs" />
         <Compile Include="Exercise 2\Program.cs" />
