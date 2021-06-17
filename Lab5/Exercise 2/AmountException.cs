@@ -17,7 +17,7 @@ namespace Lab5.Exercise_2
         }
         private void PrintError()
         {
-            Console.WriteLine($"Amount exception with person {_personName}, {_message}");
+            Console.WriteLine($"Amount exception with person test {_personName}, {_message}");
         }
     }
 }
