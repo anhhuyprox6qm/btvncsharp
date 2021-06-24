@@ -1,0 +1,6 @@
+C:\Users\asus\RiderProjects\Session01\Lab8\bin\Debug\Lab8.exe
+C:\Users\asus\RiderProjects\Session01\Lab8\bin\Debug\Lab8.pdb
+C:\Users\asus\RiderProjects\Session01\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+C:\Users\asus\RiderProjects\Session01\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\asus\RiderProjects\Session01\Lab8\obj\Debug\Lab8.exe
+C:\Users\asus\RiderProjects\Session01\Lab8\obj\Debug\Lab8.pdb
